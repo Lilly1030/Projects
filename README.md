@@ -1,8 +1,17 @@
 # Projects
 This repository is a collection of all the projects I did and contributed in.
 
-# Project-1: Web Development
+# Project-1: Image Super Resolution
+  Open jupyter notebook
 
+  Install all necessary libraries:
+
+  pip install sys keras cv2-python numpy matplotlib skimage h5py
+
+  Check and change the dataset path if necessary
+
+  Run all functions
+  
 # Project-2: Linear Regression with Numpy and Python
   1.Implement the gradient descent algorithm from scratch.
   
