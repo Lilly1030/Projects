@@ -1,6 +1,6 @@
-# Grp35 project(Dream Basket)
+# Dream Basket
 
-> Grp-35 e-commerce site(includes admin panel)
+> E-commerce site
 
 ## Usage
 
@@ -30,3 +30,5 @@ npm run server
 
 # Run client only (:3000)
 npm run client
+# Deploy link
+https://626a6672991b2d145edf8283--dreambasket-35.netlify.app/
