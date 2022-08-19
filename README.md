@@ -62,6 +62,7 @@ This repository is a collection of all the projects I did and contributed in.
   Step-3:Upload the dataset to local colab runtime or change the path to the file location accordingly.
   
   Step-4:Run all the cells.
+  [certification]([url](https://in.coursera.org/account/accomplishments/verify/2QFK3DXQA6J9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project))
   
 # Project-5: Creating Multi Task Models With Keras
   1.create and train multi-task, multi-output models with Keras. 
